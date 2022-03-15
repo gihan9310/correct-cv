@@ -66,6 +66,7 @@ li{
   padding: 0.6in var(--sidebar-horizontal-padding);
   background-color: #f2f2f2;
   font-size: 8.5pt;
+  text-align: justify !important;
 }
 
 /* main */
