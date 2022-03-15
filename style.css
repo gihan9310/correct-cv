@@ -171,7 +171,7 @@ li{
   flex: 0 0 var(--date-block-width);
   padding-top: calc(var(--row-blocks-padding-top) + 2.5pt) !important;
   padding-right: var(--decorator-horizontal-margin);
-  font-size: 8.1pt;
+  font-size: 7.8pt;
   text-align: right;
   line-height: 1;
   font-weight: bold;
