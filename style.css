@@ -161,6 +161,11 @@ li{
 .blocks > div{
   padding-top: var(--row-blocks-padding-top);
 }
+.details h3{
+  font-size: 9.5pt !important;
+  font-weight: bold;
+  /*color: red;*/
+}
 
 .date{
   flex: 0 0 var(--date-block-width);
